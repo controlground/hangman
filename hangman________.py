@@ -10,7 +10,7 @@ answer = 12
 while True:
     print(" ".join(current_state))
     if answer == 0:
-        print("아쉽지만 기회가 끝났습니다.")
+        print("아쉽지만 기회가 끝났습니다. 정답은 " + creat +"였습니다.")
         break
     else:
         print("기회가 " + str(answer) + "번 남았습니다.")
