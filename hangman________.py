@@ -22,6 +22,6 @@ while True:
         i += 1
     answer -= 1
     if '_' not in current_state:
-        print("정답을 맞히셨습니다!!!")
+        print("정답!!!!! 축하축하축하")
         break
 print(creat)
